@@ -79,3 +79,5 @@ to take the branch back to where it was in before you pulled.
 
 - ["Working with Remotes" from the _Pro Git_ book](https://git-scm.com/book/en/Git-Basics-Working-with-Remotes)"{% if currentVersion == "free-pro-team@latest" %}
 - "[Troubleshooting connectivity problems](/articles/troubleshooting-connectivity-problems)"{% endif %}
+
+YES
